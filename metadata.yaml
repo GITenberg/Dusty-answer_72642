@@ -1,0 +1,27 @@
+_repo: Dusty-answer_72642
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lehmann, Rosamund
+    gutenberg_agent_id: '56765'
+    url: http://www.gutenberg.org/2009/agents/56765
+description: ''
+gutenberg_issued: '2024-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72642'
+language: en
+pgterms:marc904: https://archive.org/details/in.ernet.dli.2015.475659/page/n5/mode/2up
+pgterms:marc905: 20230101064957lehmann
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNYC :$bHenry Holt and Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Dusty answer
+url: http://www.gutenberg.org/ebooks/72642
